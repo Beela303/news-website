@@ -1,0 +1,49 @@
+{
+  "news": [
+    {
+      "author": "Nabila Abubakar",
+      "title": "Vue News Website",
+      "description": "short description",
+      "details": "This website allows users to post and edit news using the JSON server.",
+      "id": "687a"
+    },
+    {
+      "id": "9e25",
+      "title": "How to be a Vue dev",
+      "author": "Nabila",
+      "details": "These are the details!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt dignissimos nesciunt quis maiores, repudiandae provident eius laborum. Commodi voluptatem qui quam? Aliquid placeat esse architecto non distinctio ab, quasi debitis."
+    },
+    {
+      "id": "f8fc",
+      "title": "I'm learning Vue",
+      "author": "Queen Beela",
+      "details": "details.........."
+    }
+  ],
+  "users": [
+    {
+      "name": "Nabila",
+      "email": "email",
+      "password": "pass"
+    },
+    {
+      "id": "6706",
+      "email": "Noel@email",
+      "password": "Noelpass",
+      "name": "Noel"
+    },
+    {
+      "id": "4a71",
+      "email": "Noel@email",
+      "password": "Noelpass",
+      "name": "Noel"
+    },
+    {
+      "id": "2bd9",
+      "email": "Noel@email",
+      "password": "Noelpass",
+      "name": "Noel"
+    }
+  ]
+}
