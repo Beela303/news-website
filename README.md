@@ -1,14 +1,11 @@
 <<<<<<< HEAD
 # news-website
 
-This is a personal website made for practice using Vue where users can:
-Signup
-Login
-Logout
-Create an Article
-Edit the Article
-Delete the Article
+This is a personal website made for practice using Vue where users can signup, login, logout, create an Article, edit the Article, delete the Article
+
 They also can't Post, Edit or Delete without having an account/creating an account first
+
+Problems: edit and delete function isn't working and reading an article on its own page is showing other articles.
 =======
 # newswebsite
 
